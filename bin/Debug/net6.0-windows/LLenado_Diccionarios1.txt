@@ -1,0 +1,10 @@
+dic.Add("hello","hola");
+dic.Add("apple","manzana");
+dic.Add("read","");
+dic.Add("fas","");
+dic.Add("","");
+dic.Add("asdf","sdfs");
+dic.Add("sdss","sdfs");
+dic.Add("sdfs","");
+dic.Add("asdf","dsfjsfs");
+dfgd.Add("fdgsd","dsg");

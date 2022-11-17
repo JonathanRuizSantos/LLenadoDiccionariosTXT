@@ -1,0 +1,17 @@
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\bin\Debug\net6.0-windows\LLenadoDeDiccionarios.exe
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\bin\Debug\net6.0-windows\LLenadoDeDiccionarios.deps.json
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\bin\Debug\net6.0-windows\LLenadoDeDiccionarios.runtimeconfig.json
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\bin\Debug\net6.0-windows\LLenadoDeDiccionarios.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\bin\Debug\net6.0-windows\LLenadoDeDiccionarios.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.LLenado_De_Diccionarios.resources
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.AssemblyInfoInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.AssemblyInfo.cs
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\refint\LLenadoDeDiccionarios.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\LLenadoDeDiccionarios.genruntimeconfig.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\LLenadoDeDiccionarios\obj\Debug\net6.0-windows\ref\LLenadoDeDiccionarios.dll
